@@ -34,7 +34,7 @@ Step 1: Clone or Download the Project
         Clone the repository from GitHub (if hosted online):
 
 bash
-git clone 
+git clone https://github.com/Sharif-Sallam/stock_trading_prediction.git
 
 Step 2: Navigate to the Project Directory
         Use your terminal or command prompt to navigate to the project folder:
